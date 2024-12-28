@@ -2,7 +2,7 @@ package Task1;
 //TODO Первая зачада
 public class Main {
 	public static void main(String[] args) {
-           String [] array1 = {"регион", "город", "район", "улица" };
+       String [] array1 = {"регион", "город", "район", "улица" };
 	   String [] array2 = {"регион", "город", "район", "улица" };
 	   String [] array3 = {"холодильник", "телевизор", "электропечка"};
 	   String [] array4 = {"регион", "улица", "район", "город" };
