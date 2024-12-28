@@ -1,7 +1,7 @@
 package Task2;
 
 import java.util.Arrays;
-
+//TODO Вторая задача
 public class Main {
 	public static void main(String[] args) {
        String [] array1 = {"тройка", "семёрка", "туз"};
